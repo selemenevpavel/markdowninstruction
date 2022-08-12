@@ -40,4 +40,14 @@
 
 ## Цитаты
 
+## Работа с кодом на Python
+
+```python
+x = int (init)
+if x > 0:
+    print (x)
+else:
+    print (-x)
+```
+
 ## Заключение
